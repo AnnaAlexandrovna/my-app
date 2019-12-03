@@ -1,0 +1,41 @@
+.blueBigText {
+    font-size: 25px;
+    background: #FFF;
+    color: #396EA5;
+    font-family: Calibri Light;
+    }
+
+.grayBigText {
+    font-size: 20px;
+    background: #FFF;
+    color: #666666;
+    font-family: Calibri Light;
+    margin-right:5%;
+    margin-left:5%;
+     }
+
+ h1 {
+    color:#FFF;
+    text-decoration: underline;
+    font-size: 13px;
+     }
+
+a:visited {
+    color: #fff;
+    }
+
+.centerLocation {
+    text-align: center;
+    }
+
+.buttonStile {
+    padding: 13px 17px;
+    color: #fff;
+    text-decoration: underline;
+    background: #65BFC8;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius:10px;
+    margin-right:5%;
+    margin-left:5%;
+    }
